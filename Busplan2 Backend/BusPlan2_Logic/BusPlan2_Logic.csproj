@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusPlan2_DAL\BusPlan2_DAL.csproj" />
+  </ItemGroup>
+
 </Project>
